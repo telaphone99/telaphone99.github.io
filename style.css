@@ -32,18 +32,28 @@ a:hover {
 } 
 
 .epicbox {
-  border-color: linear-gradient(#AA88FF, #7660B2);
-  border-style: solid;
+  background: linear-gradient(#AA88FF, #7660B2);
   border-radius: 4px;
-  width: 240px;
-  height: 220px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #55447F;
+  width: 320px;
+  padding: 4px;
+  height: 240px;
 }
 
 .epicbox-title {
   background: rgba(0, 0, 0, 0);
   color: #FFFFFF;
+  padding: 4px;
 }
 .epicbox-content {
   background-color: #FFFFFF;
   color: #000000;
+  border-radius: 4px;
+   border-style: solid;
+  border-width: 2px;
+  border-color: #55447F;
+  min-height: 200px;
+  padding: 4px;
 }
