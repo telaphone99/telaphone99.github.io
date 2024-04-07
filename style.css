@@ -1,7 +1,9 @@
 body {
-  font-family: "Verdana"
+  font-family: "Verdana";
+  margin: 8px auto;
 }
 .header {
+  padding: 8px;
   width: 800px;
   height: 32px;
   background-color: #AA88FF;
