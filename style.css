@@ -30,3 +30,20 @@ a {
 a:hover { 
   text-decoration: underline;
 } 
+
+.epicbox {
+  border-color: linear-gradient(#AA88FF, #7660B2);
+  border-style: solid;
+  border-radius: 4px;
+  width: 240px;
+  height: 220px;
+}
+
+.epicbox-title {
+  background: rgba(0, 0, 0, 0);
+  color: #FFFFFF;
+}
+.epicbox-content {
+  background-color: #FFFFFF;
+  color: #000000;
+}
