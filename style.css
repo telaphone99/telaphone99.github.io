@@ -1,5 +1,22 @@
+body {
+  font-family: "Verdana"
+}
 .header {
   width: 800px;
   height: 32px;
   background-color: #AA88FF;
+  line-height: 32px;
+  color: #FFFFFF;
 }
+
+.header>a {
+  color: #FFFFFF;
+}
+
+a { 
+  text-decoration: none; 
+  color: #AA88FF;
+}
+a:hover { 
+  text-decoration: underline;
+} 
