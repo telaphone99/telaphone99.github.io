@@ -2,7 +2,7 @@ body {
   font-family: "Verdana";
 }
 .header {
-  margin: 0px auto;
+  margin: -8px auto;
   padding: 8px;
   width: 800px;
   height: 32px;
