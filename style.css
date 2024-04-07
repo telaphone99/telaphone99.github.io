@@ -6,7 +6,7 @@ body {
   padding: 8px;
   width: 800px;
   height: 32px;
-  background-color: #AA88FF;
+  background: linear-gradient(#AA88FF, #7660B2);
   line-height: 32px;
   color: #FFFFFF;
   border-bottom-left-radius: 8px 8px;
