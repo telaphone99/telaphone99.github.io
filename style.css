@@ -2,13 +2,15 @@ body {
   font-family: "Verdana";
 }
 .header {
-  margin: 8px auto;
+  margin: 0px auto;
   padding: 8px;
   width: 800px;
   height: 32px;
   background-color: #AA88FF;
   line-height: 32px;
   color: #FFFFFF;
+  border-bottom-left-radius: 8px 8px;
+  border-bottom-right-radius: 8px 8px;
 }
 
 .header>a {
